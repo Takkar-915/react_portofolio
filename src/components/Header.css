@@ -1,0 +1,48 @@
+/* header{
+    width: 100%;
+    padding: 30px 4% 10px;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    display: flex;
+    align-items: center;
+
+} */
+
+header{
+    display: flex;
+    /* 主軸の幅に対して余白をもって等間隔に配置する */
+    justify-content: space-around; 
+    align-items: center; 
+    /* position: fixed; */
+    background-color: white;
+    width: 100%;
+    height: 70px;
+    /* 一番手前にくるようにする */
+    z-index: 10;
+  }
+
+.title{
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    
+}
+
+.pc-nav{
+    margin: 0 0 0 0;
+}
+
+.nav-elements{
+    list-style: none;
+    margin: 0;
+    display: flex;
+}
+
+.nav-element{
+    text-decoration: none;
+    color: #4b4b4b;
+    margin: 0 0 0 15px;
+    font-size: 16px;
+}
+
