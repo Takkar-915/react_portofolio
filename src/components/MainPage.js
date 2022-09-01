@@ -44,7 +44,7 @@ const MainPage = () => {
     <ul>
       <li>2020年3月　都立小金井北高校卒業</li>
       <li>2020年4月　静岡大学情報学部入学</li>
-      <li>2022年8月　1週間のエンジニアインターンに参加。PythonとKotlinでの開発を経験</li>
+      <li>2022年8月　1週間のエンジニアインターンに参加。PythonとKotlinでのAndroidアプリ開発を体験</li>
       <li>2022年9月　1週間のエンジニアインターンに参加。</li>
       <li>2024年3月　静岡大学情報学部卒業見込み</li>
     </ul>
@@ -78,7 +78,7 @@ const MainPage = () => {
         </div>
         <div className='card__overviewtext'>
         <p>基本的な文法やアルゴリズム、データ構造等を勉強しました。</p>
-        <p>Java, Python, HTML</p>
+        <p>Java, Python, PHP</p>
         </div>
         </div>
         </div>
@@ -161,6 +161,19 @@ const MainPage = () => {
         </div>
         </div>
       </div>
+
+      <div className="card card-skin">
+        <div className="card__imgframe"></div>
+        <div className="card__textbox">
+        <div className="card__titletext">
+        画像分析Androidアプリ
+        </div>
+        <div className="card__overviewtext">
+        PythonとKotlinを用い、撮影した野菜の種類を判別するAndroidアプリを開発(インターンシップ)
+        </div>
+        </div>
+      </div>
+
       </div>
       </div>
     </div>
