@@ -2,6 +2,7 @@ import React from 'react'
 import profileImage from '../Images/profile.jpg'
 import github from '../Images/icons/github.png'
 import qiita from '../Images/icons/qiita.jpg'
+import portofolio from '../Images/portofolio.png'
 import './MainPage.css'
 
 const MainPage = () => {
@@ -14,7 +15,7 @@ const MainPage = () => {
           <div className='profile_name'>
             <h2>原田　崇伸</h2>
             <p>静岡大学　情報学部　3年(2022年8月時点)。
-              現在はプログラミング(Javascript,Typescript, Python, PHP, Java)や機械学習(主に強化学習)、英語の勉強をしています。
+              現在はプログラミング(Javascript, Python, PHP, Java)や機械学習(主に強化学習)、英語の勉強をしています。
               運動しなきゃ！と思いながら生きています。
             </p>
             <h2>SNS等</h2>
@@ -91,8 +92,8 @@ const MainPage = () => {
         </div>
         <div class="card__overviewtext">
         <p>授業外で勉強した言語、FWです。</p>
-        <p>フロントエンド：Javascript,Typescript,React</p>
-        <p>バックエンド：Python, PHP, Django, Laravel</p>
+        <p>フロントエンド：Javascript,React</p>
+        <p>バックエンド：Python, Django, PHP, Laravel</p>
         </div>
         </div>
       </div>
@@ -103,7 +104,7 @@ const MainPage = () => {
         </div>
         <div className="card__overviewtext">
         <p>インターンシップで使用した言語です</p>
-        <p>Python, Kotilin</p>
+        <p>Python, Kotlin</p>
         </div>
         </div>
       </div>
@@ -114,7 +115,7 @@ const MainPage = () => {
         </div>
         <div className="card__overviewtext">
         <p>使用経験のあるツール等</p>
-        <p>Git, AWS, Slack, Microsoft Teams</p>
+        <p>Git, Slack, Microsoft Teams</p>
         </div>
         </div>
       </div>
@@ -133,7 +134,8 @@ const MainPage = () => {
         本ポートフォリオサイト
         </div>
         <div className='card__overviewtext'>
-        Reactを使用し、本ポートフォリオサイトを作成
+        Reactを使用し、本ポートフォリオサイトを作成。
+        <a href='' target='_blank'>こちら!</a>
         </div>
         </div>
         </div>
@@ -146,7 +148,8 @@ const MainPage = () => {
         クレジットカード明細分析ツール
         </div>
         <div class="card__overviewtext">
-        Pythonでcsv形式の楽天クレジットカード明細を分析するツールを作成
+        Pythonでcsv形式の楽天クレジットカード明細を分析するツールを作成。
+        <a href='https://github.com/Takkar-915/Analyze_credit_card_statement#readme' target='_blank'>こちら!</a>
         </div>
         </div>
       </div>
@@ -157,7 +160,8 @@ const MainPage = () => {
         オリジナル英単語帳作成アプリ
         </div>
         <div className="card__overviewtext">
-        Djangoを使い、自分専用の単語帳を作れるアプリを作成
+        Djangoを使い、自分専用の単語帳を作れるアプリを作成。
+        <a href='https://takkar0915.pythonanywhere.com/' target='_blank'>こちら!</a>
         </div>
         </div>
       </div>
@@ -169,7 +173,7 @@ const MainPage = () => {
         画像分析Androidアプリ
         </div>
         <div className="card__overviewtext">
-        PythonとKotlinを用い、撮影した野菜の種類を判別するAndroidアプリを開発(インターンシップ)
+        PythonとKotlinを用い、撮影した野菜の種類を判別するAndroidアプリを開発。(インターンシップ)
         </div>
         </div>
       </div>
