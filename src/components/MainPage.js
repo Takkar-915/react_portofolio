@@ -1,5 +1,5 @@
 import React from 'react'
-import profileImage from '../Images/profile.jpg'
+import profileImage from '../Images/profile_2.jpg'
 import github from '../Images/icons/github.png'
 import qiita from '../Images/icons/qiita.jpg'
 import portofolio from '../Images/portofolio.png'
@@ -14,8 +14,8 @@ const MainPage = () => {
           <img src={profileImage} className="profile_img"  />
           <div className='profile_name'>
             <h2>原田　崇伸</h2>
-            <p>静岡大学　情報学部　3年(2022年8月時点)。
-              現在はプログラミング(Javascript, Python, PHP, Java)や機械学習(主に強化学習)、英語の勉強をしています。
+            <p>静岡大学　情報学部　3年(2022年9月時点)。
+              現在はプログラミング(Javascript, Python, PHP, Java)や英語の勉強をしています。
               運動しなきゃ！と思いながら生きています。
             </p>
             <h2>SNS等</h2>
