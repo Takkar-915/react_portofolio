@@ -91,7 +91,7 @@ const MainPage = () => {
         個人開発
         </div>
         <div class="card__overviewtext">
-        <p>授業外で勉強した言語、FWです。</p>
+        <p>授業外で勉強している言語、FWです。</p>
         <p>フロントエンド：Javascript,React</p>
         <p>バックエンド：Python, Django, PHP, Laravel</p>
         </div>
