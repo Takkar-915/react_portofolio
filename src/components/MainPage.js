@@ -128,46 +128,46 @@ const MainPage = () => {
 
       <div className='works_list'>
       <div className='card card-skin'>
-        <div className='card__imgframe'></div>
+        <div className='card__imgframe_1'></div>
         <div className='card__textbox'>
         <div className='card__titletext'>
         本ポートフォリオサイト
         </div>
         <div className='card__overviewtext'>
         Reactを使用し、本ポートフォリオサイトを作成。
-        <a href='' target='_blank'>こちら!</a>
+        <a href='' target='_blank'>詳細</a>
         </div>
         </div>
         </div>
     
       
       <div className='card card-skin'>
-        <div className="card__imgframe"></div>
+        <div className="card__imgframe_2"></div>
         <div className="card__textbox">
         <div className="card__titletext">
         クレジットカード明細分析ツール
         </div>
         <div class="card__overviewtext">
         Pythonでcsv形式の楽天クレジットカード明細を分析するツールを作成。
-        <a href='https://github.com/Takkar-915/Analyze_credit_card_statement#readme' target='_blank'>こちら!</a>
+        <a href='https://github.com/Takkar-915/Analyze_credit_card_statement#readme' target='_blank'>詳細</a>
         </div>
         </div>
       </div>
       <div className="card card-skin">
-        <div className="card__imgframe"></div>
+        <div className="card__imgframe_3"></div>
         <div className="card__textbox">
         <div className="card__titletext">
         オリジナル英単語帳作成アプリ
         </div>
         <div className="card__overviewtext">
         Djangoを使い、自分専用の単語帳を作れるアプリを作成。
-        <a href='https://takkar0915.pythonanywhere.com/' target='_blank'>こちら!</a>
+        <a href='https://takkar0915.pythonanywhere.com/' target='_blank'>詳細</a>
         </div>
         </div>
       </div>
 
       <div className="card card-skin">
-        <div className="card__imgframe"></div>
+        <div className="card__imgframe_4"></div>
         <div className="card__textbox">
         <div className="card__titletext">
         画像分析Androidアプリ

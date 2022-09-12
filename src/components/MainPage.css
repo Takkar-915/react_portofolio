@@ -80,14 +80,54 @@
     height: auto;
     margin: 20px;
     }
+
     .card__imgframe{
+        width: 100%;
+        height: auto;
+        padding-top: 56.25%;
+        background: url(https://placehold.jp/640x360.png) no-repeat center;
+        background-size: cover;
+        box-sizing: border-box;
+        }
+
+
+    .card__imgframe_1{
     width: 100%;
     height: auto;
     padding-top: 56.25%;
-    background: url(https://placehold.jp/640x360.png) no-repeat center;
+    background: url(../Images/portofolio.png);
+    /* background: url(https://placehold.jp/640x360.png) no-repeat center; */
     background-size: cover;
     box-sizing: border-box;
     }
+
+    .card__imgframe_2{
+        width: 100%;
+        height: auto;
+        padding-top: 56.25%;
+        background: url(../Images/statement.jpg);
+        background-size: cover;
+        box-sizing: border-box;
+        }
+
+    .card__imgframe_3{
+        width: 100%;
+        height: auto;
+        padding-top: 56.25%;
+        background: url(../Images/words_application.png);
+        background-size: cover;
+        box-sizing: border-box;
+        }
+
+
+    .card__imgframe_4{
+        width: 100%;
+        height: auto;
+        padding-top: 56.25%;
+        background: url(../Images/android_app.jpg);
+        background-size: cover;
+        box-sizing: border-box;
+        }
     .card__textbox{
     width: 100%;
     height: auto;
