@@ -1,5 +1,8 @@
 import React from 'react'
-import profileImage from '../Images/profile_2.jpg'
+import ProfileImage from './ProfileImage'
+import profileImage_1 from '../Images/profile_1.jpg'
+import profileImage_2 from '../Images/profile_2.jpg'
+import profileImage_3 from '../Images/profile_3.jpg'
 import github from '../Images/icons/github.png'
 import qiita from '../Images/icons/qiita.jpg'
 import portofolio from '../Images/portofolio.png'
@@ -11,7 +14,12 @@ const MainPage = () => {
       <div className='profile_box'>
         <div className='box-title'>プロフィール</div>
         <div className='profile_center'>
-          <img src={profileImage} className="profile_img"  />
+        <ProfileImage 
+          srcFirst = {profileImage_1}
+          srcSecond = {profileImage_2}
+          srcThird = {profileImage_3}
+        />
+        {/* <img src={profileImage_1} className="profile_img"  /> */}
           <div className='profile_name'>
             <h2>原田　崇伸</h2>
             <p>静岡大学　情報学部　3年(2022年9月時点)。
