@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/react_portofolio/static/css/main.c17e30dd.css",
-    "main.js": "/react_portofolio/static/js/main.d65c1c87.js",
+    "main.js": "/react_portofolio/static/js/main.9969db9d.js",
+    "static/media/profile_2.jpg": "/react_portofolio/static/media/profile_2.d937a3a21d69e560f071.jpg",
+    "static/media/profile_3.jpg": "/react_portofolio/static/media/profile_3.2bbe6695c57ee3007867.jpg",
     "static/media/words_application.png": "/react_portofolio/static/media/words_application.e01efd5a4c0dbd11c1d7.png",
-    "static/media/profile_2.jpg": "/react_portofolio/static/media/profile_2.c6fdc997d0da8577740f.jpg",
+    "static/media/profile_1.jpg": "/react_portofolio/static/media/profile_1.c6fdc997d0da8577740f.jpg",
     "static/media/statement.jpg": "/react_portofolio/static/media/statement.aeddeff7841119e17cc6.jpg",
     "static/media/portofolio.png": "/react_portofolio/static/media/portofolio.c9c17dd5323e0420267e.png",
     "static/media/android_app.jpg": "/react_portofolio/static/media/android_app.da465a1d23030a2535b1.jpg",
     "static/media/github.png": "/react_portofolio/static/media/github.6f6ecf9a856ad117fa03.png",
     "index.html": "/react_portofolio/index.html",
     "main.c17e30dd.css.map": "/react_portofolio/static/css/main.c17e30dd.css.map",
-    "main.d65c1c87.js.map": "/react_portofolio/static/js/main.d65c1c87.js.map"
+    "main.9969db9d.js.map": "/react_portofolio/static/js/main.9969db9d.js.map"
   },
   "entrypoints": [
     "static/css/main.c17e30dd.css",
-    "static/js/main.d65c1c87.js"
+    "static/js/main.9969db9d.js"
   ]
 }
