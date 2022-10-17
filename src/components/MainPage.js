@@ -22,9 +22,9 @@ const MainPage = () => {
         {/* <img src={profileImage_1} className="profile_img"  /> */}
           <div className='profile_name'>
             <h2>原田　崇伸</h2>
-            <p>静岡大学　情報学部　3年(2022年9月時点)。
-              現在はプログラミング(Javascript, Python, PHP, Java)や英語の勉強をしています。
-              運動しなきゃ！と思いながら生きています。
+            <p>静岡大学　情報学部　3年(2022年10月時点)。
+              プログラミング(Python, PHP, Laravel, Javascript, React等)や英語の勉強をしています。
+              webアプリケーションの開発に興味があります。
             </p>
             <h2>SNS等</h2>
             <ul className='sns_links'>
@@ -67,12 +67,11 @@ const MainPage = () => {
       <li>2021年8月　普通自動車第一種免許(AT限定)</li>
     </ul>
   </div>
-    <div className='certification'>
+  <div className='certification'>
     <div className='little-title'>勉強中</div>
     <ul>
-      <li>2022年10月　基本情報技術者試験 受験予定</li>
+      <li>2022年11月　基本情報技術者試験 受験予定</li>
       <li>2023年1月　実用英語技能検定　1級受験予定(CSE SCORE 2700over(筆記2050,面接650))</li>
-      <li>????年??月　国連英検A級受験予定(在学中)</li>
     </ul>
     </div>
     </div>
@@ -101,7 +100,7 @@ const MainPage = () => {
         <div class="card__overviewtext">
         <p>授業外で勉強している言語、FWです。</p>
         <p>フロントエンド：Javascript,React</p>
-        <p>バックエンド：Python, Django, PHP, Laravel</p>
+        <p>バックエンド：PHP, Laravel, Python</p>
         </div>
         </div>
       </div>
@@ -168,8 +167,8 @@ const MainPage = () => {
         オリジナル英単語帳作成アプリ
         </div>
         <div className="card__overviewtext">
-        Djangoを使い、自分専用の単語帳を作れるアプリを作成。
-        <a href='https://takkar0915.pythonanywhere.com/' target='_blank'>詳細</a>
+        Laravelを使い、自分専用の単語帳を作れるアプリを作成。
+        <a href='http://ec2-54-184-124-189.us-west-2.compute.amazonaws.com/' target='_blank'>詳細</a>
         </div>
         </div>
       </div>
