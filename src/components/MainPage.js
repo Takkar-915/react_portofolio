@@ -167,8 +167,8 @@ const MainPage = () => {
         オリジナル英単語帳作成アプリ
         </div>
         <div className="card__overviewtext">
-        Laravelを使い、自分専用の単語帳を作れるアプリを作成。(近日ドメイン取得＆https化します…しばらくお待ちください。)
-        <a href='http://ec2-54-184-124-189.us-west-2.compute.amazonaws.com/' target='_blank'>詳細</a>
+        Laravelを使い、自分専用の単語帳を作れるアプリを作成。(近日https化します…しばらくお待ちください。)
+        <a href='http://mywordsapp.net/' target='_blank'>詳細</a>
         </div>
         </div>
       </div>
