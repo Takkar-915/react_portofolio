@@ -22,7 +22,7 @@ const MainPage = () => {
         {/* <img src={profileImage_1} className="profile_img"  /> */}
           <div className='profile_name'>
             <h2>原田　崇伸</h2>
-            <p>静岡大学　情報学部　3年(2022年10月時点)。
+            <p>静岡大学　情報学部　3年(2022年12月時点)。
               プログラミング(Python, PHP, Laravel, Javascript, React等)や英語の勉強をしています。
               webアプリケーションの開発に興味があります。
             </p>
@@ -65,13 +65,6 @@ const MainPage = () => {
       <li>2022年5月　TOEIC L&R 850点 (Listening 435+Reading 415、2022年5月 公開テスト) </li>
       <li>2021年6月　実用英語技能検定　準1級取得</li>
       <li>2021年8月　普通自動車第一種免許(AT限定)</li>
-    </ul>
-  </div>
-  <div className='certification'>
-    <div className='little-title'>勉強中</div>
-    <ul>
-      <li>2022年11月　基本情報技術者試験 受験予定</li>
-      <li>2023年1月　実用英語技能検定　1級受験予定(CSE SCORE 2700over(筆記2050,面接650))</li>
     </ul>
     </div>
     </div>
