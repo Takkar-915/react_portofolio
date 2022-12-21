@@ -45,13 +45,12 @@
 }
 
 .flex{
+    padding: 2.5% 0;
+    display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
-    display: inline-flex; 
     justify-content: center;
-    /* text-align: justify;
-    list-style: none; */
-
-}
+  }
 
 .flex ul li{
     list-style: none;
@@ -154,5 +153,5 @@
     .card-skin{
     overflow: hidden;
     border-radius: 8px;
-    box-shadow: 0 4px 15px rgba(0,0,0,.2);
+    box-shadow: 0 
     }

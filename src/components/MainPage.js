@@ -108,17 +108,6 @@ const MainPage = () => {
         </div>
         </div>
       </div>
-      <div className="card card-skin">
-        <div className="card__textbox">
-        <div className="card__titletext">
-        その他
-        </div>
-        <div className="card__overviewtext">
-        <p>使用経験のあるツール等</p>
-        <p>Git, Slack, Microsoft Teams</p>
-        </div>
-        </div>
-      </div>
       </div>
       </div>
     
